@@ -1,0 +1,22 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.titulo {
+  color: rgb(170, 29, 106);
+  text-align: center;
+}
+.subtitulo {
+  font-style: italic;
+  text-align: center;
+}
+.img {
+  border: 2px solid rgb(230 39 145);
+  margin-left: 320px;
+}
+ul {
+margin-left: 600px;
+}
+.subtitulo-h3 {
+  font-style: italic;
+  color: rgb(170, 29, 106) ;
+}
